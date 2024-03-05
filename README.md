@@ -1,7 +1,7 @@
 
-# RockyBot: News Research Tool 
+# AI-Research-Bot
 
-RockyBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
+This Python and Streamlit project leverages GPT-4 to craft an AI research assistant. Feed it articles, and it extracts key insights through a user-friendly interface, empowering efficient data exploration.
 
 ![](rockybot.jpg)
 
